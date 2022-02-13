@@ -13,7 +13,7 @@ dangliangdiguo是当量帝国的拼音。
 
 点击此处到达当量社团专区。
 
-点击此处到达拦路小丑专区。
+点击此处到达拦路小丑专区。https://github.com/dangliangdiguo/lanluxiaochou/blob/main/README.md
 
 <script type="text/javascript" src="busuanzi.js"></script> <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"> </script> 
 总访问量：
