@@ -11,7 +11,7 @@ dangliangdiguo是当量帝国的拼音。
 
 联系站长：邮箱13810097078@139.com，尽量不要来信，这是我妈的邮箱
 
-点击此处到达当量社团专区。
+点击此处到达当量社团专区。https://github.com/dangliangdiguo/dangliangdiguo.dangliangshequ
 
 点击此处到达拦路小丑专区。https://github.com/dangliangdiguo/lanluxiaochou/blob/main/README.md
 
