@@ -18,6 +18,6 @@ dangliangdiguo是当量帝国的拼音。
 
 点击此处到达留言专区。https://github.com/dangliangdiguo/lanluxiaochou/blob/main/README.md
 
-点击进入cmz专区。https://github.com/dangliangdiguo/cmz/edit/main/README.md
+点击进入cmz专区。https://github.com/dangliangdiguo/cmz/blob/main/README.md
 
 实际上，这个个人网站是我用来装*的。
